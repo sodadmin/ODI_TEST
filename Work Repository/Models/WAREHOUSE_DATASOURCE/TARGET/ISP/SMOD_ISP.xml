@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SunopsisExport>
+<Admin RepositoryVersion="05.02.02.07" IsLegacyIdCompatible="false" />
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="nnxaIO5+XH2//wXW0C0gTg==" exportKeySalt="347a9119-11be-49e8-934f-bf8b7975ea95" containsCipherText="false"/>
+<Object class="com.sunopsis.dwg.dbobj.SnpSubModel">
+		<Field name="CodSmod" type="java.lang.String"><![CDATA[ISP]]></Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2018-05-20 00:28:30.0]]></Field>
+	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[9058025e-6eba-466c-985b-97a38b68c7fa]]></Field>
+	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[4]]></Field>
+	<Field name="IMod" type="com.sunopsis.sql.DbInt"><![CDATA[32]]></Field>
+	<Field name="ISmod" type="com.sunopsis.sql.DbInt"><![CDATA[109]]></Field>
+	<Field name="ISmodParent" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2018-05-21 01:06:25.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="RevApplyPattern" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="RevPatternOrder" type="java.lang.String">null</Field>
+	<Field name="SmodName" type="java.lang.String"><![CDATA[ISP]]></Field>
+	<Field name="SmodType" type="java.lang.String"><![CDATA[U]]></Field>
+	<Field name="TableNamePattern" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTable]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[DIM_DDO_ISP_WITH_TASKS]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[49eacb54-5721-4168-ac6e-a5907b07d0c7]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[f87b64d90ef4e0723b81732ab8847ab83c8dc3e4]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[TAB_DIM_DDO_ISP_WITH_TASKS.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTable]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[DDO_ISP_FACT_PROV_PGM_INDIV]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[fd5f457f-f31d-44c5-afe2-3314297802f2]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[f87b64d90ef4e0723b81732ab8847ab83c8dc3e4]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[TAB_DDO_ISP_FACT_PROV_PGM_INDIV.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTable]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[DIM_DDO_OM_MEASURE_WITH_DOMAIN]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[410b6c79-26c4-421c-99f1-3992ecd5354d]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[f87b64d90ef4e0723b81732ab8847ab83c8dc3e4]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[TAB_DIM_DDO_OM_MEASURE_WITH_DOMAIN.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTable]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[DDO_TEST]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[2e60ec92-1547-480b-b385-b91ff149ef5a]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[f87b64d90ef4e0723b81732ab8847ab83c8dc3e4]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[TAB_DDO_TEST.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTable]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[DDO_ISP_PROGRAM_COUNT_FACT]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[35384215-8a24-4acf-b61f-abd0ef751617]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[f87b64d90ef4e0723b81732ab8847ab83c8dc3e4]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[TAB_DDO_ISP_PROGRAM_COUNT_FACT.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTable]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[DIM_DDO_OUTCOME_MEASURE]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[3b4319f4-3e7f-4061-b21d-fc969f35fa87]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[f87b64d90ef4e0723b81732ab8847ab83c8dc3e4]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[TAB_DIM_DDO_OUTCOME_MEASURE.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTable]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[DDO_ISP_ALL_PROGRAM_COUNT_FACT]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[30afa5a6-506a-4095-9722-1f7f9f28b3e8]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[f87b64d90ef4e0723b81732ab8847ab83c8dc3e4]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[TAB_DDO_ISP_ALL_PROGRAM_COUNT_FACT.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTable]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[DDO_ISP_PROGRAM_COUNT_FACT_MRG]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[0df238a0-c645-4606-aeb4-f19e044e9ae3]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[f87b64d90ef4e0723b81732ab8847ab83c8dc3e4]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[TAB_DDO_ISP_PROGRAM_COUNT_FACT_MRG.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTable]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[ISP_FACT]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[3abea827-7ba5-4699-86ef-deb8611acb3d]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[f87b64d90ef4e0723b81732ab8847ab83c8dc3e4]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[TAB_ISP_FACT.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTable]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[DDO_PGM_INDIV_DOMAIN_ISP_FACT]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[9c2a9546-ceb2-40e2-9077-848ed261ded3]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[f87b64d90ef4e0723b81732ab8847ab83c8dc3e4]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[TAB_DDO_PGM_INDIV_DOMAIN_ISP_FACT.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTable]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[DDO_ISP_FACT_PROV_PGM_MIDDLE]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[26fa4199-cd6d-4bc2-a363-01b571001bfa]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[f87b64d90ef4e0723b81732ab8847ab83c8dc3e4]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[TAB_DDO_ISP_FACT_PROV_PGM_MIDDLE.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTable]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[DDO_ISP_FACT_PGM_INDIV_MAPPED]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[e1941088-43f7-4c9a-9d76-a5b9d0b7f6b3]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[f87b64d90ef4e0723b81732ab8847ab83c8dc3e4]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[TAB_DDO_ISP_FACT_PGM_INDIV_MAPPED.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTable]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[DDO_ISP_FACT_SP_CLIENT_ISP]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[7fc85dec-953b-49df-9147-671f665fba42]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[f87b64d90ef4e0723b81732ab8847ab83c8dc3e4]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[TAB_DDO_ISP_FACT_SP_CLIENT_ISP.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTable]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[DDO_ISP_FACT_PV_PGM_SP_CLIENT]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[95378be9-fe1c-48cb-8851-5c749c8fb957]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[f87b64d90ef4e0723b81732ab8847ab83c8dc3e4]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[TAB_DDO_ISP_FACT_PV_PGM_SP_CLIENT.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTable]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[DIM_DDO_ISP_WEIGHT]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[20812e54-558f-4045-97c3-208b8fd06fa6]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[f87b64d90ef4e0723b81732ab8847ab83c8dc3e4]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[TAB_DIM_DDO_ISP_WEIGHT.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTable]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[DDO_ISP_FACT_PROV_PGM_MAPPED]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[e4416d0c-0a1a-40db-9f71-5cd22a28ebc8]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[f87b64d90ef4e0723b81732ab8847ab83c8dc3e4]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[TAB_DDO_ISP_FACT_PROV_PGM_MAPPED.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTable]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[DDO_ISP_FACT_INITIAL]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[ca1da236-f171-40d4-a3f4-bd7c680825d7]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[f87b64d90ef4e0723b81732ab8847ab83c8dc3e4]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[TAB_DDO_ISP_FACT_INITIAL.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTable]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[DDO_ISP_FACT_PROV_PGM]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[bf28a21f-a62e-4871-8372-708fb9fbbf35]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[f87b64d90ef4e0723b81732ab8847ab83c8dc3e4]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[TAB_DDO_ISP_FACT_PROV_PGM.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTable]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[DDO_ISP_FACT]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[f74c808b-993e-448a-a0cb-e4aabd2f160d]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[f87b64d90ef4e0723b81732ab8847ab83c8dc3e4]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[TAB_DDO_ISP_FACT.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTable]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[DIM_DDO_OM_SCORE_LABEL]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[1306cf03-b726-470e-ae16-b69a1fd380e9]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[f87b64d90ef4e0723b81732ab8847ab83c8dc3e4]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[TAB_DIM_DDO_OM_SCORE_LABEL.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTable]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[DIM_DDO_OM_WITH_DOMAIN]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[18b29359-7300-45ef-9d79-8ecedee51410]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[f87b64d90ef4e0723b81732ab8847ab83c8dc3e4]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[TAB_DIM_DDO_OM_WITH_DOMAIN.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTable]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[DIM_DDO_ISP_SERVICE_PROVIDER]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[af28b4ba-7869-4019-80ac-7ca8eacaf6b4]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[f87b64d90ef4e0723b81732ab8847ab83c8dc3e4]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[TAB_DIM_DDO_ISP_SERVICE_PROVIDER.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTable]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[DDO_TEST1]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[7461de01-3098-462b-8b80-6156e9e8307d]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[f87b64d90ef4e0723b81732ab8847ab83c8dc3e4]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[TAB_DDO_TEST1.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTable]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[DIM_ISP_TIME]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[ba0fa3a8-0c9e-4e7a-9c70-b5522a512a91]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[f87b64d90ef4e0723b81732ab8847ab83c8dc3e4]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[TAB_DIM_ISP_TIME.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTable]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[DDO_ISP_FACT_PROV_PGM_TEST]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[9d8a8144-be45-4fe3-be80-db6af39d4c98]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[f87b64d90ef4e0723b81732ab8847ab83c8dc3e4]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[TAB_DDO_ISP_FACT_PROV_PGM_TEST.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTable]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[DDO_DOMAIN_MONTH_FACT]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[cd260f17-9796-4238-8a7d-fab4fe259d54]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[f87b64d90ef4e0723b81732ab8847ab83c8dc3e4]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[TAB_DDO_DOMAIN_MONTH_FACT.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTable]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[DDO_ISP_FACT_PROV_PGM_TOTAL]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[5f1f4756-35b5-49b9-8082-b3b10e15dfb7]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[f87b64d90ef4e0723b81732ab8847ab83c8dc3e4]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[TAB_DDO_ISP_FACT_PROV_PGM_TOTAL.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTable]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[DDO_PROV_PGM_ENROLLMENT_FACT]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[4359a70f-efa0-41a8-a84a-e29db7159bf9]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[f87b64d90ef4e0723b81732ab8847ab83c8dc3e4]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[TAB_DDO_PROV_PGM_ENROLLMENT_FACT.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTable]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[DDO_ISP_FACT_PROV_PGM_TYPE]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[ca1d12e7-b7bf-4463-80e0-9438ce4f801a]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[f87b64d90ef4e0723b81732ab8847ab83c8dc3e4]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[TAB_DDO_ISP_FACT_PROV_PGM_TYPE.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTable]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[DDO_PROV_PGM_INDIV_FACT_MIDDLE]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[f000048f-21a7-4a9f-82f6-438fa2b6b366]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[f87b64d90ef4e0723b81732ab8847ab83c8dc3e4]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[TAB_DDO_PROV_PGM_INDIV_FACT_MIDDLE.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTable]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[DIM_DDO_ISP]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[4311fe18-6840-4698-baca-5cb4df50cf72]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[f87b64d90ef4e0723b81732ab8847ab83c8dc3e4]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[TAB_DIM_DDO_ISP.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTable]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[DIM_DDO_ISP_MAPPING]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[cd64b734-2196-49a8-a0d6-664b9301c4eb]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[f87b64d90ef4e0723b81732ab8847ab83c8dc3e4]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[TAB_DIM_DDO_ISP_MAPPING.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTable]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[DIM_DDO_OM_MEASURE_WITH_TAG]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[437b630e-4209-49f5-8fad-55cd728c6f51]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[f87b64d90ef4e0723b81732ab8847ab83c8dc3e4]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[TAB_DIM_DDO_OM_MEASURE_WITH_TAG.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_MODEL.32]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[10efef70-b73c-463e-810d-9612ad13cc22]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String"><![CDATA[WAREHOUSE_DATASOURCE.TARGET]]></Field>
+ <Field name="RefObjFQType" type="java.lang.String"><![CDATA[SNP_MODFOLDER.SNP_MODEL]]></Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String"><![CDATA[20.6]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.DwgExportSummary">
+		<Field name="ExpTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="InstObjNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="JoinColNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="JoinNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="KeyColNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="KeyNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="LinkDiagNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="MorigTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="MtxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="OrigTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="OtherObjectsNb" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="PlanAgentNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="StepNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="TxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="UeOrigNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="UeUsedNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="VarPlanAgentNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="ScenTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="OdiVersion" type="java.lang.String"><![CDATA[12.2.1]]></Field>
+	<Field name="OriginRepositoryID" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="RepositoryVersion" type="java.lang.String"><![CDATA[05.02.02.07]]></Field>
+</Object>
+</SunopsisExport>
