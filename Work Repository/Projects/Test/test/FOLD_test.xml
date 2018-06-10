@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.07" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="Mgt8q2xe8ntXSjeG4Kk3rA==" exportKeySalt="f3da2b80-c306-4303-be0d-03fc7493f744" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="YFxAyDNmtcDlJedVPtGAAQ==" exportKeySalt="d2f64843-2ff6-402d-b0f2-7a1c85efe30f" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpFolder">
 		<Field name="ExtVersion" type="java.lang.String">null</Field>
-	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2018-05-20 00:31:02.0]]></Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2018-06-10 01:02:40.0]]></Field>
 	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="FolderName" type="java.lang.String"><![CDATA[test]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[9fbef202-d577-46c9-a4ce-0cc8771ec74a]]></Field>
 	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[9]]></Field>
-	<Field name="IFolder" type="com.sunopsis.sql.DbInt"><![CDATA[32]]></Field>
-	<Field name="IProject" type="com.sunopsis.sql.DbInt"><![CDATA[32]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2018-06-07 01:31:59.0]]></Field>
+	<Field name="IFolder" type="com.sunopsis.sql.DbInt"><![CDATA[52]]></Field>
+	<Field name="IProject" type="com.sunopsis.sql.DbInt"><![CDATA[52]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2018-06-10 01:05:28.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="OrdFolder" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="ParIFolder" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
@@ -24,7 +24,7 @@
 	<Field name="SubType" type="java.lang.String"><![CDATA[N]]></Field>
 	<Field name="Name" type="java.lang.String"><![CDATA[DIM_CLIENT]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[bd6f09e3-527f-4e66-8d69-129214856ec5]]></Field>
-	<Field name="Version" type="java.lang.String"><![CDATA[ae86f088ed8901e8aac9ec4bf777a43a394de5c0]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[ad050f4c2c5b11537faaa06e12ebe65618451c10]]></Field>
 	<Field name="Path" type="java.lang.String"><![CDATA[Mappings/MAP_DIM_CLIENT.xml]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
@@ -44,7 +44,7 @@
 	<Field name="Path" type="java.lang.String"><![CDATA[Mappings/MAP_test1.xml]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
-		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_PROJECT.32]]></Field>
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_PROJECT.52]]></Field>
 	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[434dad71-b21f-44f9-9ba1-914f471091ee]]></Field>
  <Field name="RefObjFQName" type="java.lang.String"><![CDATA[Test]]></Field>
  <Field name="RefObjFQType" type="java.lang.String"><![CDATA[SNP_PROJECT]]></Field>
